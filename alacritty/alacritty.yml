@@ -79,7 +79,7 @@ window:
   # Startup Mode (changes require restart)
   #
   # Values for `startup_mode`:
-  startup_mode: "Maximized"
+  startup_mode: "Windowed"
   #   - Windowed
   #   - Maximized
   #   - Fullscreen
