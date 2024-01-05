@@ -624,4 +624,4 @@ tag.connect_signal("property::selected", backham)
 -- }}}
 
 awful.spawn.with_shell("picom")
-awful.spawn.with_shell("nitrogen --restore")
+awful.spawn.with_shell("nitrogen  --random ~/walpapers/ --set-scaled")
